@@ -1,0 +1,1 @@
+select Name,Platform,Genre,Year from vgsales;
